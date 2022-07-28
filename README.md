@@ -6,8 +6,8 @@ Social network web application where users can share their thoughts, react to fr
 ## Table Of Contents
 * [General info](#story)
 * [Technologies](#built-with)
-* [Deployable link](#deployable-link) 
-* [Screenshot](#screenshot)
+* [Walkthrough Video](#Walkthrough-video)
+
 
 ## Story
 As a social media startup I want an API for my social network that uses a NoSQL database so that my website can handle large amounts of unstructured data
@@ -19,9 +19,6 @@ As a social media startup I want an API for my social network that uses a NoSQL 
 * Mongoose
 * NoSQL
 
+## Walkthrough video
 
-## Deployable link 
-
-
-## screenshot 
-![screenshot]()
+![screenrecording](./assets/images/socialnetwork.gif)
